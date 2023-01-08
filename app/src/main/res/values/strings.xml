@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sortowanko</string>
+    <string name="rozmiar_danych1" />
+    <string name="rozmiar_danych" />
+    <string name="start_button" />
+    <string name="generuj" />
+</resources>
